@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rusty3699
+https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username={rusty3699}
 
 <!--
 **rusty3699/rusty3699** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
