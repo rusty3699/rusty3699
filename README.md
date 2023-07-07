@@ -2,7 +2,7 @@
 
 <div>
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rusty3699&theme=github_dark&show_icons=true&count_private=true&hide=prs,contribs" style="width:55%;" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rusty3699&exclude_repo=Crawling-and-Analysis-of-Internship-and-Job-Portal&layout=compact&hide=html&theme=github_dark&langs_count=8" style="width:40%;" align="right"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rusty3699&layout=compact&hide=html&theme=github_dark&langs_count=8" style="width:40%;" align="right"/>
 </div>
 
 <!--
