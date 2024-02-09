@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=rusty3699)
+<!-- ![](https://komarev.com/ghpvc/?username=rusty3699) -->
 
 <div>
 <!--   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rusty3699&theme=github_dark&show_icons=true&count_private=true&hide=prs,contribs" style="width:55%;" />
