@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 this is Anish
+Passionate software developer and IoT enthusiast with expertise in C/C++, Python, JavaScript, React, Flask, TensorFlow, and OpenCV. Experienced in innovative project solutions and proficient in project management for impactful outcomes.
 
  ![](https://komarev.com/ghpvc/?username=rusty3699) 
 
