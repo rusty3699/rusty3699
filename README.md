@@ -1,5 +1,5 @@
 ### Hi there 👋 this is Anish
-Passionate Full-stack software developer and IoT enthusiast with expertise in C/C++, Python, JavaScript, React, Flask, TensorFlow, and OpenCV. Experienced in innovative project solutions and proficient in project management for impactful outcomes.
+Enthusiastic Software Developer interested in robotics, EVs, nature, startups and astronomy. Passionate about crafting solutions to real-world challenges. Enjoys automating tasks and solving Rubik's Cubes. Currently a Junior Research Fellow at IIT Hyderabad.
 
  ![](https://komarev.com/ghpvc/?username=rusty3699) 
 
