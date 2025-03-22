@@ -11,6 +11,8 @@
 
 I’m an enthusiastic software developer passionate about developing innovative solutions, automating processes, and exploring new technologies. Currently working as a **Junior Research Fellow** at [IIT Hyderabad](https://www.iith.ac.in/).
 
+**Website:** [anishtipnis.vercel.app](https://anishtipnis.vercel.app)
+
 ---
 
 ## 💻 Tech Stack
