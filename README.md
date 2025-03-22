@@ -47,6 +47,18 @@ I’m an enthusiastic software developer passionate about developing innovative 
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
+<!-- Other Tools & Platforms -->
+![Socket.io](https://img.shields.io/badge/socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Node-RED](https://img.shields.io/badge/Node--RED-8F0000?style=for-the-badge&logo=node-red&logoColor=white)
+![Gulp](https://img.shields.io/badge/GULP-CF4647?style=for-the-badge&logo=gulp&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-171717?style=for-the-badge&logo=ffmpeg&logoColor=5cb85c)
+
 <!-- Machine Learning Tools -->
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
